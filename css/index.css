@@ -233,3 +233,18 @@ button {
     padding-bottom: 20px;
 } 
 
+.about-middle-content .middle {
+    display: flex;
+    padding-top: 20px;
+    justify-content: space-around;
+}
+
+.about-middle-content .middle p {
+    padding-bottom: 20px;
+}
+
+.about-middle-content .middle h2 {
+    padding-top: 10px;
+    
+}
+
