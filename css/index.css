@@ -203,3 +203,13 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* css for about page starts here  */
+
+button {
+    border-radius: 2rem;
+    padding: 10px 20px;
+    background: none;
+    border: 1px solid black;
+
+}
