@@ -213,3 +213,23 @@ button {
     border: 1px solid black;
 
 }
+
+.about-top-content .about-about-content {
+    border-bottom: 1px solid black;
+    padding-bottom: 20px;
+}
+
+.about-top-content .top {
+    display: flex;
+    padding-top: 20px;
+    justify-content: space-around;
+}
+.about-top-content .top h2 {
+    padding-top: 10px;
+    
+}
+
+.about-top-content .top p {
+    padding-bottom: 20px;
+} 
+
